@@ -1,0 +1,75 @@
+Shows the directory of files in this project
+
+Final Assignment/
+|
+|-- include/
+|   |-- bosons/
+|       |-- Boson.h
+|       |-- GaugeBoson.h
+|       |-- Gluon.h
+|       |-- HiggsBoson.h
+|       |-- Photon.h
+|       |-- WBoson.h
+|       |-- ZBoson.h
+|   |-- core/
+|       |-- FourVector.h
+|       |-- Particle.h
+|       |-- ParticleContainer.h
+|       |-- ParticleContainer.tpp
+|   |-- fermions/
+|       |-- Electron.h
+|       |-- Fermion.h
+|       |-- Lepton.h
+|       |-- Muon.h
+|       |-- Neutrino.h
+|       |-- Quark.h
+|       |-- Tau.h
+|   |-- utilities/
+|       |-- DecayChannels.h
+|       |-- DecayTemplates.h
+|       |-- DecayTemplates.tpp
+|       |-- DecayUtilities.h
+|       |-- FactoryUtilities.h
+|       |-- LeptonUtilities.h
+|       |-- ParticleUtilities.h
+|       |-- ParticleVisitor.h
+|       |-- QuantumNumberVisitor.h
+|       |-- QuarkUtilities.h
+|       |-- SharedDecays.h
+|
+|-- src/
+|   |-- bosons/
+|       |-- Boson.cpp
+|       |-- GaugeBoson.cpp
+|       |-- Gluon.cpp
+|       |-- HiggsBoson.cpp
+|       |-- Photon.cpp
+|       |-- WBoson.cpp
+|       |-- ZBoson.cpp
+|   |-- core/
+|       |-- FourVector.cpp
+|       |-- Particle.cpp
+|       |-- ParticleContainer.cpp
+|   |-- fermions/
+|       |-- Electron.cpp
+|       |-- Fermion.cpp
+|       |-- Lepton.cpp
+|       |-- Muon.cpp
+|       |-- Neutrino.cpp
+|       |-- Quark.cpp
+|       |-- Tau.cpp
+|   |-- main/
+|       |-- ParticleCatalogue.cpp
+|   |-- utilities/
+|       |-- DecayChannels.cpp
+|       |-- DecayUtilities.cpp
+|       |-- FactoryUtilities.cpp
+|       |-- LeptonUtilities.cpp
+|       |-- ParticleUtilities.cpp
+|       |-- QuantumNumberVisitor.cpp
+|       |-- QuarkUtilities.cpp
+|       |-- SharedDecays.cpp
+|
+|-- Doxygen
+|   |-- html/
+|		|-- ...
