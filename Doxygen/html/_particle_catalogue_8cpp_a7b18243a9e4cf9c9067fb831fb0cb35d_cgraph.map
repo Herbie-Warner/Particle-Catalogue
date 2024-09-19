@@ -1,0 +1,15 @@
+<map id="demonstrate_w_plus_decays" name="demonstrate_w_plus_decays">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,146,99"/>
+<area shape="rect" id="Node000002" href="$class_particle.html#aa7c632bf0cb849b521d2ffd176b8344e" title=" " alt="" coords="194,27,330,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,64,178,58,179,64,147,69"/>
+<area shape="rect" id="Node000007" href="$_particle_catalogue_8cpp.html#a388f572c62279f839ee138a9afbdeeb5" title=" " alt="" coords="239,93,285,120"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="147,86,224,98,223,103,146,91"/>
+<area shape="rect" id="Node000003" href="$class_particle.html#ab158ed5a778271ca1aabdcaf028002e4" title=" " alt="" coords="378,5,550,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="330,36,362,31,363,36,331,41"/>
+<area shape="rect" id="Node000004" href="$namespace_decay_utilities.html#ac88452e84670f76b53134b995cf9109c" title=" " alt="" coords="388,56,540,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="331,55,373,61,372,67,330,60"/>
+<area shape="rect" id="Node000005" href="$class_quantum_number_visitor.html#ad0d11aba8945cace8fa1da4de0d7a19e" title=" " alt="" coords="598,56,783,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="541,75,583,75,583,80,541,80"/>
+<area shape="rect" id="Node000006" href="$class_lepton_utilities_1_1_lepton_number.html#ab3351e17e2b0d7afdd394e8286b2e9b8" title=" " alt="" coords="831,56,1026,99"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="783,75,815,75,815,80,783,80"/>
+</map>

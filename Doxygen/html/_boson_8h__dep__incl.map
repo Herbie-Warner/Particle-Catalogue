@@ -1,0 +1,45 @@
+<map id="include/bosons/Boson.h" name="include/bosons/Boson.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1030,5,1190,32"/>
+<area shape="rect" id="Node000002" href="$_gauge_boson_8h.html" title=" " alt="" coords="699,80,897,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1041,39,853,82,852,77,1040,33"/>
+<area shape="rect" id="Node000015" href="$_higgs_boson_8h.html" title=" " alt="" coords="1189,155,1382,181"/>
+<area shape="poly" id="edge22_Node000001_Node000015" title=" " alt="" coords="1114,47,1121,77,1137,105,1155,121,1175,134,1220,152,1218,157,1173,138,1152,125,1133,108,1116,79,1109,48"/>
+<area shape="rect" id="Node000017" href="$_boson_8cpp.html" title=" " alt="" coords="1147,80,1299,107"/>
+<area shape="poly" id="edge26_Node000001_Node000017" title=" " alt="" coords="1144,38,1205,77,1202,82,1141,43"/>
+<area shape="rect" id="Node000003" href="$_gluon_8h.html" title=" " alt="" coords="1007,155,1164,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="863,108,1036,151,1034,157,862,114"/>
+<area shape="rect" id="Node000007" href="$_photon_8h.html" title=" " alt="" coords="216,155,380,181"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="695,112,381,157,380,152,694,107"/>
+<area shape="rect" id="Node000010" href="$_w_boson_8h.html" title=" " alt="" coords="404,155,578,181"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="730,113,545,157,544,151,729,108"/>
+<area shape="rect" id="Node000012" href="$_z_boson_8h.html" title=" " alt="" coords="815,155,983,181"/>
+<area shape="poly" id="edge16_Node000002_Node000012" title=" " alt="" coords="829,114,883,152,880,156,826,118"/>
+<area shape="rect" id="Node000014" href="$_gauge_boson_8cpp.html" title=" " alt="" coords="602,155,791,181"/>
+<area shape="poly" id="edge21_Node000002_Node000014" title=" " alt="" coords="769,118,716,156,713,152,766,114"/>
+<area shape="rect" id="Node000004" href="$_gluon_8cpp.html" title=" " alt="" coords="1230,229,1379,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1139,184,1267,226,1265,231,1137,189"/>
+<area shape="rect" id="Node000005" href="$_particle_catalogue_8cpp.html" title=" " alt="" coords="1003,229,1206,256"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1095,196,1104,228,1099,230,1090,197"/>
+<area shape="rect" id="Node000006" href="$_factory_utilities_8cpp.html" title=" " alt="" coords="596,229,797,256"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1003,187,765,231,764,226,1002,182"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="396,179,695,204,991,227,1003,228,1003,233,991,232,695,209,395,184"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="383,182,627,226,626,231,382,187"/>
+<area shape="rect" id="Node000008" href="$_photon_8cpp.html" title=" " alt="" coords="5,229,161,256"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="247,189,122,231,120,226,245,184"/>
+<area shape="rect" id="Node000009" href="$_shared_decays_8cpp.html" title=" " alt="" coords="185,229,384,256"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="295,197,289,229,284,228,290,196"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="593,179,1003,227,1002,232,593,184"/>
+<area shape="poly" id="edge14_Node000010_Node000006" title=" " alt="" coords="542,184,661,226,659,231,540,189"/>
+<area shape="poly" id="edge15_Node000010_Node000009" title=" " alt="" coords="442,189,321,231,320,226,440,184"/>
+<area shape="rect" id="Node000011" href="$_w_boson_8cpp.html" title=" " alt="" coords="408,229,572,256"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="493,197,493,229,487,229,488,197"/>
+<area shape="poly" id="edge18_Node000012_Node000005" title=" " alt="" coords="950,184,1069,226,1067,231,948,189"/>
+<area shape="poly" id="edge19_Node000012_Node000006" title=" " alt="" coords="850,189,733,231,731,226,849,184"/>
+<area shape="poly" id="edge20_Node000012_Node000009" title=" " alt="" coords="800,184,384,233,383,227,800,179"/>
+<area shape="rect" id="Node000013" href="$_z_boson_8cpp.html" title=" " alt="" coords="821,229,980,256"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="902,197,903,229,897,229,897,197"/>
+<area shape="poly" id="edge24_Node000015_Node000005" title=" " alt="" coords="1241,190,1137,231,1135,226,1239,185"/>
+<area shape="poly" id="edge25_Node000015_Node000006" title=" " alt="" coords="1174,186,797,232,796,226,1173,180"/>
+<area shape="rect" id="Node000016" href="$_higgs_boson_8cpp.html" title=" " alt="" coords="1403,229,1587,256"/>
+<area shape="poly" id="edge23_Node000015_Node000016" title=" " alt="" coords="1337,184,1459,226,1457,231,1336,189"/>
+</map>

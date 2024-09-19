@@ -1,0 +1,40 @@
+<map id="include/bosons/Boson.h" name="include/bosons/Boson.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="375,5,535,32"/>
+<area shape="rect" id="Node000002" href="$_particle_8h.html" title=" " alt="" coords="403,80,506,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,33,457,64,452,64,452,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,379,59,405"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,106,326,126,283,140,242,157,177,188,126,214,104,229,84,249,64,273,44,305,34,334,32,364,27,363,29,333,39,303,59,270,80,245,101,225,123,209,175,183,240,152,281,135,324,120,402,101"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="242,304,310,331"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="403,104,348,122,322,136,301,156,283,188,275,223,273,258,274,288,269,289,267,258,269,222,278,186,297,153,319,132,346,117,402,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="650,304,705,331"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="473,105,537,156,614,228,663,290,659,293,610,231,534,160,470,109"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="645,155,713,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="495,105,631,148,629,154,493,110"/>
+<area shape="rect" id="Node000007" href="$_four_vector_8h.html" title=" " alt="" coords="737,155,863,181"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="507,103,725,148,724,154,506,108"/>
+<area shape="rect" id="Node000008" href="$_decay_channels_8h.html" title=" " alt="" coords="311,155,479,181"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="446,109,417,145,412,141,442,106"/>
+<area shape="rect" id="Node000014" href="$_particle_utilities_8h.html" title=" " alt="" coords="54,304,218,331"/>
+<area shape="poly" id="edge21_Node000002_Node000014" title=" " alt="" coords="403,107,342,126,310,140,280,157,241,189,205,225,154,292,150,289,201,222,237,185,277,152,308,135,340,121,402,102"/>
+<area shape="rect" id="Node000016" href="$_particle_visitor_8h.html" title=" " alt="" coords="886,155,1045,181"/>
+<area shape="poly" id="edge22_Node000002_Node000016" title=" " alt="" coords="507,99,871,151,871,156,507,105"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="367,184,335,204,306,231,291,260,283,289,277,288,286,258,302,228,332,199,365,180"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="452,179,514,198,577,227,622,258,657,291,654,295,618,262,575,232,512,203,450,184"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="316,229,383,256"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="389,183,368,217,363,215,385,180"/>
+<area shape="rect" id="Node000010" href="$_decay_utilities_8h.html" title=" " alt="" coords="407,229,564,256"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="412,180,460,218,456,222,409,184"/>
+<area shape="poly" id="edge20_Node000008_Node000014" title=" " alt="" coords="373,184,287,232,172,298,169,293,284,227,370,179"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="450,259,326,302,324,297,448,254"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="520,254,636,298,634,303,518,259"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="561,304,626,331"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="506,254,563,293,560,297,503,259"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="334,304,410,331"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="467,259,406,298,403,293,464,254"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="434,304,537,331"/>
+<area shape="poly" id="edge16_Node000010_Node000013" title=" " alt="" coords="488,257,488,288,483,288,483,257"/>
+<area shape="poly" id="edge17_Node000010_Node000014" title=" " alt="" coords="425,259,212,303,211,298,424,254"/>
+<area shape="poly" id="edge18_Node000014_Node000003" title=" " alt="" coords="119,333,64,372,61,367,116,329"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="97,379,175,405"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="139,331,139,363,133,363,133,331"/>
+</map>

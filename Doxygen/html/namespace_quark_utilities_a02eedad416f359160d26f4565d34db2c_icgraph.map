@@ -1,0 +1,9 @@
+<map id="QuarkUtilities::is_anti_quark" name="QuarkUtilities::is_anti_quark">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,72,334,115"/>
+<area shape="rect" id="Node000002" href="$namespace_quark_utilities.html#ad4984498032d6f9784680bfd814d7f8d" title=" " alt="" coords="20,5,154,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,70,148,51,150,46,203,65"/>
+<area shape="rect" id="Node000003" href="$namespace_quark_utilities.html#a6fba2ce7aa25fb3958e44ed5a0717d01" title=" " alt="" coords="24,72,150,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,96,150,96,150,91,201,91"/>
+<area shape="rect" id="Node000004" href="$class_quark.html#ab28aaf4f59be75c16c8fe25b904e4295" title=" " alt="" coords="5,139,169,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,119,169,129,133,141,132,136,168,124,201,114"/>
+</map>

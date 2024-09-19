@@ -1,0 +1,46 @@
+<map id="Particle::get_px" name="Particle::get_px">
+<area shape="rect" id="Node000001" title=" " alt="" coords="770,307,882,333"/>
+<area shape="rect" id="Node000002" href="$class_gluon.html#a4df4fb7f68baf2afc4185d73ebd64677" title=" " alt="" coords="357,5,498,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="813,293,800,258,780,216,753,174,720,138,667,102,609,74,551,54,498,41,499,36,552,49,611,69,670,97,723,134,758,171,785,214,805,256,818,291"/>
+<area shape="rect" id="Node000006" href="$class_w_boson.html#a007128408f8014b8582b22194f505fea" title=" " alt="" coords="564,199,722,241"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="792,300,720,256,697,244,700,240,723,251,795,296"/>
+<area shape="rect" id="Node000007" href="$class_electron.html#a13c3c31d4fa5ae7e0ec547aadeffd016" title=" " alt="" coords="579,265,707,308"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="754,310,707,301,708,296,755,304"/>
+<area shape="rect" id="Node000008" href="$class_muon.html#a6b4c5a860cfe71d88680d953c66c72da" title=" " alt="" coords="573,332,713,375"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="755,336,714,343,713,338,754,330"/>
+<area shape="rect" id="Node000009" href="$class_neutrino.html#a216a3baa2be2a44ad25fbd9663d97210" title=" " alt="" coords="579,399,707,441"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="795,344,723,389,700,400,697,396,720,384,792,340"/>
+<area shape="rect" id="Node000010" href="$class_quark.html#a2dcf2baf68fee5a244cf7ee36b96aaf4" title=" " alt="" coords="572,465,714,508"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="812,348,775,402,751,430,723,455,705,467,703,462,720,451,747,426,771,398,807,345"/>
+<area shape="rect" id="Node000011" href="$class_tau.html#ac3c2cce8c4f13f1116159511dae3c879" title=" " alt="" coords="579,532,707,575"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="819,349,806,387,786,433,759,480,723,522,708,534,705,529,720,518,755,477,782,430,801,385,814,347"/>
+<area shape="rect" id="Node000012" href="$class_particle.html#a9958a7eadbf95d6feef44fab309a965d" title=" " alt="" coords="584,148,702,175"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="808,294,772,241,748,213,720,189,699,178,702,173,723,184,752,209,777,237,812,291"/>
+<area shape="rect" id="Node000003" href="$_particle_catalogue_8cpp.html#a8b15e61a1e33d72e6b91e0326af811b8" title=" " alt="" coords="114,107,279,149"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,58,291,97,263,108,261,104,289,92,371,53"/>
+<area shape="rect" id="Node000005" href="$_particle_catalogue_8cpp.html#ac93f34a8b89a480e659d152d7e90a141" title=" " alt="" coords="106,40,287,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="341,42,288,50,287,45,341,37"/>
+<area shape="rect" id="Node000004" href="$_particle_catalogue_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,115,55,141"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="98,131,55,131,55,125,98,125"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="119,91,104,97,56,119,54,114,102,92,117,86"/>
+<area shape="poly" id="edge13_Node000012_Node000005" title=" " alt="" coords="598,144,516,113,397,88,287,72,288,67,398,82,517,108,600,139"/>
+<area shape="rect" id="Node000013" href="$class_particle.html#a12243e8523a8c3cd768b92dc845db4c8" title=" " alt="" coords="338,173,516,200"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="569,173,517,179,516,174,568,167"/>
+<area shape="rect" id="Node000015" href="$class_gluon.html#a936df2fe2878fafb738d05b0d8b7f076" title=" " alt="" coords="373,224,481,251"/>
+<area shape="poly" id="edge19_Node000012_Node000015" title=" " alt="" coords="582,183,565,189,517,214,482,226,481,221,515,210,563,184,580,178"/>
+<area shape="rect" id="Node000016" href="$class_lepton.html#a403733a627e50de55c152e652ac51d3b" title=" " alt="" coords="371,275,484,301"/>
+<area shape="poly" id="edge20_Node000012_Node000016" title=" " alt="" coords="572,184,566,189,550,207,543,226,535,246,518,265,486,281,483,276,515,261,531,243,538,224,546,204,563,185,569,180"/>
+<area shape="rect" id="Node000020" href="$class_quark.html#ac2b61727b437e2a02a368b460e420263" title=" " alt="" coords="373,123,482,149"/>
+<area shape="poly" id="edge24_Node000012_Node000020" title=" " alt="" coords="568,155,482,145,483,140,569,150"/>
+<area shape="poly" id="edge15_Node000013_Node000003" title=" " alt="" coords="356,172,279,152,280,146,358,166"/>
+<area shape="poly" id="edge18_Node000013_Node000005" title=" " alt="" coords="344,168,336,163,320,147,311,130,303,113,288,97,270,86,273,81,292,93,308,110,316,127,324,144,340,159,347,164"/>
+<area shape="rect" id="Node000014" href="$_particle_catalogue_8cpp.html#abf939f0a0fcbe01a7e61de35d6c112d1" title=" " alt="" coords="103,173,290,200"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="323,189,291,189,291,184,323,184"/>
+<area shape="poly" id="edge17_Node000014_Node000004" title=" " alt="" coords="123,171,102,164,54,143,56,138,104,159,125,166"/>
+<area shape="rect" id="Node000017" href="$class_electron.html#a10f7cdf5beee6bf60ad2b7763ea17a96" title=" " alt="" coords="135,224,258,251"/>
+<area shape="poly" id="edge21_Node000016_Node000017" title=" " alt="" coords="355,275,258,253,259,248,356,270"/>
+<area shape="rect" id="Node000018" href="$class_muon.html#a0ee083b04062e145941d80255698fd48" title=" " alt="" coords="143,275,250,301"/>
+<area shape="poly" id="edge22_Node000016_Node000018" title=" " alt="" coords="355,291,250,291,250,285,355,285"/>
+<area shape="rect" id="Node000019" href="$class_neutrino.html#a30a188e01d35cd656c689134f6579da5" title=" " alt="" coords="135,325,258,352"/>
+<area shape="poly" id="edge23_Node000016_Node000019" title=" " alt="" coords="356,306,259,328,258,323,355,301"/>
+</map>

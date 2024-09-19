@@ -1,0 +1,7 @@
+<map id="create_standard_model_particles" name="create_standard_model_particles">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,162,81"/>
+<area shape="rect" id="Node000002" href="$class_particle_container.html#ab21abfb56c28127ec93c2f2d1e53396d" title=" " alt="" coords="210,5,338,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,44,194,38,195,43,163,49"/>
+<area shape="rect" id="Node000003" href="$class_particle_container.html#a726913d0af3647529003375fbd492a4b" title=" " alt="" coords="210,72,338,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,71,195,77,194,82,162,76"/>
+</map>

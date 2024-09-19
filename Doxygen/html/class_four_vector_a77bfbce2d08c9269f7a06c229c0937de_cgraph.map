@@ -1,0 +1,13 @@
+<map id="FourVector::get_invariant_mass_squared" name="FourVector::get_invariant_mass_squared">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,171,116"/>
+<area shape="rect" id="Node000002" href="$class_four_vector.html#a1ee80d498970ca166adc72a3fbf74bb6" title=" " alt="" coords="219,81,380,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,92,203,92,203,97,171,97"/>
+<area shape="rect" id="Node000003" href="$class_four_vector.html#a9c55a63bd2c4b61fb7a505f528434046" title=" " alt="" coords="431,5,558,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,78,427,42,442,36,444,41,429,46,336,83"/>
+<area shape="rect" id="Node000004" href="$class_four_vector.html#a290fb5108ad7f194d6a526ec05e20cfd" title=" " alt="" coords="428,56,560,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="380,81,412,77,413,83,381,87"/>
+<area shape="rect" id="Node000005" href="$class_four_vector.html#a9114b01b6e3f5fb33e1e6e3bb4360a53" title=" " alt="" coords="428,107,560,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="381,103,413,107,412,112,380,108"/>
+<area shape="rect" id="Node000006" href="$class_four_vector.html#ad682caecb53781f2e709719662c69c83" title=" " alt="" coords="428,157,560,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="336,106,429,143,444,149,442,154,427,148,334,111"/>
+</map>

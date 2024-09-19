@@ -1,0 +1,30 @@
+<map id="SharedDecays::initialise_shared_decay_channels" name="SharedDecays::initialise_shared_decay_channels">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,131,174,173"/>
+<area shape="rect" id="Node000002" href="$namespace_shared_decays.html#a1c3f69529bfe31a363751559dcfd33ea" title=" " alt="" coords="222,64,386,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,128,217,109,219,114,161,133"/>
+<area shape="rect" id="Node000003" href="$namespace_shared_decays.html#a9d0c7e4c429f043e7ab2ac2237899912" title=" " alt="" coords="222,239,386,281"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,171,247,229,245,234,132,176"/>
+<area shape="rect" id="Node000012" href="$namespace_shared_decays.html#a670659b9b1f50905b3770e9444b13ada" title=" " alt="" coords="222,131,386,173"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="174,149,206,149,206,155,174,155"/>
+<area shape="rect" id="Node000004" href="$namespace_decay_templates.html#aa40c950ec0e0324c8b4dd36a63ec3e3c" title=" " alt="" coords="456,123,603,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="345,236,433,191,443,186,446,191,435,196,347,240"/>
+<area shape="rect" id="Node000006" href="$namespace_shared_decays.html#aaa6c3693ab935b1b52b35be5d3816d4d" title=" " alt="" coords="453,405,605,448"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="323,280,370,335,401,365,435,391,443,396,441,400,433,396,398,369,366,339,319,284"/>
+<area shape="rect" id="Node000007" href="$namespace_shared_decays.html#aa0f8260da0f84410bbc0e2040cfe769d" title=" " alt="" coords="453,205,606,248"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="386,245,437,238,438,243,387,251"/>
+<area shape="rect" id="Node000008" href="$namespace_lepton_utilities.html#aced4b26af00747298c37f9d9a3541409" title=" " alt="" coords="434,272,624,315"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="387,269,419,274,418,280,386,275"/>
+<area shape="rect" id="Node000011" href="$namespace_shared_decays.html#ad8a0dce88f44caf558f550b443155943" title=" " alt="" coords="444,339,615,381"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="345,279,435,324,450,330,448,335,433,329,343,284"/>
+<area shape="rect" id="Node000005" href="$namespace_decay_templates.html#ab3ef31f6ab4a3b8434d2699640512ba7" title=" " alt="" coords="672,131,849,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="603,149,657,149,657,155,603,155"/>
+<area shape="rect" id="Node000009" href="$namespace_lepton_utilities.html#a7fc7fbb9aab3f712f32d5bd3238fe0d3" title=" " alt="" coords="696,64,825,107"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="608,270,622,258,636,241,642,224,646,189,649,154,657,135,670,117,681,108,684,112,674,120,661,138,655,155,651,190,648,225,640,244,626,262,611,274"/>
+<area shape="rect" id="Node000010" href="$namespace_lepton_utilities.html#a013c43fd04889e018de961426564c453" title=" " alt="" coords="679,272,842,315"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="625,291,664,291,664,296,625,296"/>
+<area shape="poly" id="edge12_Node000012_Node000004" title=" " alt="" coords="386,149,440,149,440,155,386,155"/>
+<area shape="poly" id="edge13_Node000012_Node000007" title=" " alt="" coords="372,171,449,197,447,202,370,177"/>
+<area shape="poly" id="edge14_Node000012_Node000009" title=" " alt="" coords="363,128,433,108,563,91,680,84,680,89,564,96,435,113,364,133"/>
+<area shape="rect" id="Node000013" href="$namespace_quark_utilities.html#a806ac784d8f55a8ab6b64c55f5ceb2f0" title=" " alt="" coords="467,5,592,48"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="365,128,384,117,399,104,408,91,417,78,432,65,451,53,454,58,436,69,421,82,412,94,403,107,388,121,368,133"/>
+</map>

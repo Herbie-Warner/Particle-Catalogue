@@ -1,0 +1,51 @@
+<map id="src/fermions/Quark.cpp" name="src/fermions/Quark.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,5,264,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="90,80,161,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,34,147,70,143,66,173,31"/>
+<area shape="rect" id="Node000003" href="$_quark_8h.html" title=" " alt="" coords="185,80,306,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,31,228,66,223,70,194,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="121,453,189,480"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="185,107,128,123,70,150,45,167,26,188,13,213,8,242,8,318,11,340,18,359,44,394,78,422,113,444,111,448,75,427,40,398,13,362,6,341,3,319,3,241,8,211,21,185,42,163,67,145,126,118,184,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="43,304,112,331"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="238,109,98,294,93,290,234,106"/>
+<area shape="rect" id="Node000006" href="$_fermion_8h.html" title=" " alt="" coords="235,155,368,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="257,106,285,141,280,144,253,109"/>
+<area shape="rect" id="Node000020" href="$_quark_utilities_8h.html" title=" " alt="" coords="648,229,803,256"/>
+<area shape="poly" id="edge28_Node000003_Node000020" title=" " alt="" coords="287,105,671,222,669,227,286,110"/>
+<area shape="rect" id="Node000007" href="$_particle_8h.html" title=" " alt="" coords="367,229,473,256"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="323,180,388,219,385,223,321,184"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="367,253,257,272,207,287,189,296,177,306,159,336,151,372,149,407,152,438,147,438,144,407,145,371,154,334,173,302,186,292,205,282,255,267,366,247"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="368,257,131,307,127,307,126,302,130,301,367,252"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="799,528,852,555"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="473,245,546,251,627,262,701,279,730,289,751,302,773,325,790,351,813,409,824,466,828,513,823,513,819,467,807,411,785,354,768,328,748,306,728,294,700,284,626,267,545,256,473,250"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="727,453,782,480"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="474,245,540,252,615,263,681,279,707,290,725,302,746,334,757,370,761,407,760,438,755,438,755,407,752,371,741,336,721,306,704,294,679,284,614,268,540,257,473,250"/>
+<area shape="rect" id="Node000010" href="$_four_vector_8h.html" title=" " alt="" coords="187,304,312,331"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="391,259,294,300,292,295,389,254"/>
+<area shape="rect" id="Node000011" href="$_decay_channels_8h.html" title=" " alt="" coords="336,304,504,331"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="423,257,423,288,417,288,417,257"/>
+<area shape="rect" id="Node000017" href="$_particle_utilities_8h.html" title=" " alt="" coords="539,453,704,480"/>
+<area shape="poly" id="edge26_Node000007_Node000017" title=" " alt="" coords="473,245,535,252,603,263,663,279,685,290,701,302,710,320,713,339,709,359,701,378,677,415,649,444,645,441,672,411,697,376,704,357,708,339,705,322,697,306,683,294,661,284,602,268,535,257,473,250"/>
+<area shape="rect" id="Node000019" href="$_particle_visitor_8h.html" title=" " alt="" coords="529,304,687,331"/>
+<area shape="poly" id="edge27_Node000007_Node000019" title=" " alt="" coords="454,254,562,295,560,300,452,259"/>
+<area shape="poly" id="edge14_Node000011_Node000004" title=" " alt="" coords="396,334,307,381,191,447,188,443,304,376,394,329"/>
+<area shape="poly" id="edge13_Node000011_Node000009" title=" " alt="" coords="484,329,555,348,629,376,684,408,729,441,726,445,681,412,627,381,553,353,482,334"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="550,379,616,405"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="449,329,541,369,539,374,447,334"/>
+<area shape="rect" id="Node000013" href="$_decay_utilities_8h.html" title=" " alt="" coords="317,379,475,405"/>
+<area shape="poly" id="edge16_Node000011_Node000013" title=" " alt="" coords="418,332,407,365,402,363,413,330"/>
+<area shape="poly" id="edge25_Node000011_Node000017" title=" " alt="" coords="438,329,539,403,593,442,590,446,536,407,435,333"/>
+<area shape="poly" id="edge18_Node000013_Node000004" title=" " alt="" coords="355,408,204,453,203,448,353,403"/>
+<area shape="poly" id="edge17_Node000013_Node000009" title=" " alt="" coords="475,403,584,422,712,450,711,455,583,427,474,408"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="351,453,415,480"/>
+<area shape="poly" id="edge19_Node000013_Node000014" title=" " alt="" coords="396,406,390,439,385,438,391,405"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="439,453,516,480"/>
+<area shape="poly" id="edge20_Node000013_Node000015" title=" " alt="" coords="412,404,454,441,450,445,408,408"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="223,453,326,480"/>
+<area shape="poly" id="edge21_Node000013_Node000016" title=" " alt="" coords="376,408,310,447,308,443,374,404"/>
+<area shape="poly" id="edge22_Node000013_Node000017" title=" " alt="" coords="436,403,568,446,567,451,434,408"/>
+<area shape="poly" id="edge23_Node000017_Node000008" title=" " alt="" coords="658,478,785,523,783,528,656,483"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="582,528,661,555"/>
+<area shape="poly" id="edge24_Node000017_Node000018" title=" " alt="" coords="624,481,624,512,619,512,619,481"/>
+<area shape="poly" id="edge29_Node000020_Node000008" title=" " alt="" coords="778,254,816,272,833,286,846,303,859,329,865,358,867,387,865,416,854,471,839,514,834,513,849,470,860,416,862,387,860,358,854,331,842,305,829,290,813,277,776,259"/>
+</map>

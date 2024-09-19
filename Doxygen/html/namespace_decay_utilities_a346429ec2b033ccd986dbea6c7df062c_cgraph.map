@@ -1,0 +1,11 @@
+<map id="DecayUtilities::validate_decay" name="DecayUtilities::validate_decay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,158,81"/>
+<area shape="rect" id="Node000002" href="$class_particle.html#a418f964793b890a7e1ce60ae78954137" title=" " alt="" coords="242,16,354,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,47,226,37,227,42,159,52"/>
+<area shape="rect" id="Node000004" href="$class_quantum_number_visitor.html#ad0d11aba8945cace8fa1da4de0d7a19e" title=" " alt="" coords="206,68,390,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,68,191,72,190,77,158,73"/>
+<area shape="rect" id="Node000003" href="$class_particle_visitor.html#af9952cee97b3951f42d507f65fca59a6" title=" " alt="" coords="470,5,602,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="354,26,454,25,454,30,354,31"/>
+<area shape="rect" id="Node000005" href="$class_lepton_utilities_1_1_lepton_number.html#ab3351e17e2b0d7afdd394e8286b2e9b8" title=" " alt="" coords="438,72,633,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="390,88,423,89,422,94,390,94"/>
+</map>

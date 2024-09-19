@@ -1,0 +1,25 @@
+<map id="Particle::get_charge" name="Particle::get_charge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="436,272,573,299"/>
+<area shape="rect" id="Node000002" href="$class_w_boson.html#a007128408f8014b8582b22194f505fea" title=" " alt="" coords="220,5,378,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,258,480,215,458,163,427,109,386,62,370,51,373,46,390,58,431,106,462,160,485,213,499,256"/>
+<area shape="rect" id="Node000003" href="$class_electron.html#a13c3c31d4fa5ae7e0ec547aadeffd016" title=" " alt="" coords="235,72,363,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="488,259,448,194,419,159,386,129,362,114,364,110,390,125,423,156,452,191,492,257"/>
+<area shape="rect" id="Node000004" href="$class_muon.html#a6b4c5a860cfe71d88680d953c66c72da" title=" " alt="" coords="229,139,369,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="476,263,436,229,387,196,364,184,366,180,389,191,439,225,480,259"/>
+<area shape="rect" id="Node000005" href="$class_tau.html#ac3c2cce8c4f13f1116159511dae3c879" title=" " alt="" coords="235,205,363,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="440,270,363,247,364,242,441,265"/>
+<area shape="rect" id="Node000006" href="$class_w_boson.html#a42e7c71453f228caf6d766668f2b4c9e" title=" " alt="" coords="210,272,388,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="420,288,388,288,388,283,420,283"/>
+<area shape="rect" id="Node000007" href="$class_electron.html#aa7398db541d59cf0e4adb8ee8c7ddd17" title=" " alt="" coords="211,323,387,349"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="433,306,357,325,355,319,432,300"/>
+<area shape="rect" id="Node000008" href="$class_muon.html#a277e3d22b7ba2fa903b76088e0a242aa" title=" " alt="" coords="219,373,379,400"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="475,311,436,338,389,364,359,375,357,370,387,359,433,333,472,306"/>
+<area shape="rect" id="Node000009" href="$class_tau.html#ae218c728342dacd5bfd61f85e00d9a6c" title=" " alt="" coords="224,424,374,451"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="488,313,447,365,420,391,389,414,365,426,363,421,387,410,416,387,443,361,484,310"/>
+<area shape="rect" id="Node000010" href="$class_quantum_number_visitor.html#a91d64e5a5ff0c264823abbc13d441f64" title=" " alt="" coords="221,475,377,517"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="494,314,455,388,425,429,390,465,372,476,369,472,386,461,421,426,450,385,490,312"/>
+<area shape="rect" id="Node000011" href="$class_quantum_number_visitor.html#a245562d29586575e67ae5b3b6c411910" title=" " alt="" coords="5,441,162,484"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="205,484,162,477,163,472,206,479"/>
+<area shape="rect" id="Node000012" href="$class_quantum_number_visitor.html#a7dcbebdcefd31482750c560b892f9531" title=" " alt="" coords="5,508,162,551"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="206,513,163,520,162,515,205,508"/>
+</map>

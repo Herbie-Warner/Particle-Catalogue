@@ -1,0 +1,21 @@
+<map id="Particle::decay_with_print_inbuilt" name="Particle::decay_with_print_inbuilt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,144,176"/>
+<area shape="rect" id="Node000002" href="$class_particle.html#a9879d3bf550787b2028a5a5945f915e7" title=" " alt="" coords="192,91,341,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,134,198,119,199,124,145,139"/>
+<area shape="rect" id="Node000008" href="$class_particle.html#ab158ed5a778271ca1aabdcaf028002e4" title=" " alt="" coords="389,139,561,165"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="144,152,374,150,374,155,144,157"/>
+<area shape="rect" id="Node000009" href="$namespace_particle_utilities.html#abff4e3e03d04831bf57e6b877ddaf817" title=" " alt="" coords="412,189,539,232"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="145,162,396,197,395,202,144,167"/>
+<area shape="rect" id="Node000003" href="$namespace_particle_utilities.html#a1de08ca3ab8ea73d3d5035109d85e6eb" title=" " alt="" coords="408,5,542,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,88,400,51,402,56,305,93"/>
+<area shape="rect" id="Node000004" href="$namespace_decay_utilities.html#a7db65bb8d50e5784d9587793b8a2fd3a" title=" " alt="" coords="394,72,556,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="341,98,378,96,379,101,342,103"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="328,115,400,132,399,137,327,120"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="290,116,335,144,390,175,402,180,400,185,388,180,332,149,287,120"/>
+<area shape="rect" id="Node000005" href="$class_four_vector.html#a04b2f2f49fcc749a82ec34cedc9960da" title=" " alt="" coords="614,5,764,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="545,69,603,51,604,56,546,74"/>
+<area shape="rect" id="Node000006" href="$class_particle.html#a9279d1c2f2ee27f5b69d74a619693a5b" title=" " alt="" coords="629,72,749,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="557,91,614,91,614,96,557,96"/>
+<area shape="rect" id="Node000007" href="$class_particle.html#aa0b2cd179036d78598e82306c9e12cd5" title=" " alt="" coords="609,139,769,165"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="556,113,624,132,623,137,554,118"/>
+</map>

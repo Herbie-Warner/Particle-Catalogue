@@ -1,0 +1,14 @@
+<map id="QuarkUtilities::get_anti_colour" name="QuarkUtilities::get_anti_colour">
+<area shape="rect" id="Node000001" title=" " alt="" coords="522,72,648,115"/>
+<area shape="rect" id="Node000002" href="$class_gluon.html#a4df4fb7f68baf2afc4185d73ebd64677" title=" " alt="" coords="333,39,474,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,82,474,76,475,70,508,77"/>
+<area shape="rect" id="Node000006" href="$class_quark.html#a2dcf2baf68fee5a244cf7ee36b96aaf4" title=" " alt="" coords="332,105,474,148"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="508,110,475,116,474,111,507,105"/>
+<area shape="rect" id="Node000003" href="$_particle_catalogue_8cpp.html#a8b15e61a1e33d72e6b91e0326af811b8" title=" " alt="" coords="111,5,276,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,49,276,42,277,37,318,44"/>
+<area shape="rect" id="Node000005" href="$_particle_catalogue_8cpp.html#ac93f34a8b89a480e659d152d7e90a141" title=" " alt="" coords="103,72,284,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="318,76,285,81,284,76,317,71"/>
+<area shape="rect" id="Node000004" href="$_particle_catalogue_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,47,55,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,49,56,58,55,52,95,44"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="87,74,54,67,55,62,88,69"/>
+</map>

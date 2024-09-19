@@ -1,0 +1,11 @@
+<map id="QuantumNumberVisitor::visit_lepton" name="QuantumNumberVisitor::visit_lepton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,162,81"/>
+<area shape="rect" id="Node000002" href="$class_lepton.html#a33eb9cbe2a8b694ebe588623ce3a685c" title=" " alt="" coords="224,5,352,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,45,208,37,209,42,163,50"/>
+<area shape="rect" id="Node000003" href="$class_quantum_number_visitor.html#a91d64e5a5ff0c264823abbc13d441f64" title=" " alt="" coords="210,72,366,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,70,195,76,194,81,162,75"/>
+<area shape="rect" id="Node000004" href="$class_particle.html#ace872a5c45504859bf205e5637d1b2a4" title=" " alt="" coords="414,55,551,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="366,81,398,76,399,82,367,86"/>
+<area shape="rect" id="Node000005" href="$class_particle.html#a7940217ea9051d81bfe20fa6b0d8f898" title=" " alt="" coords="422,105,544,132"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="367,101,407,106,406,111,366,106"/>
+</map>

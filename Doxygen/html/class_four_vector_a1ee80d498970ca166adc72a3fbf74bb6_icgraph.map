@@ -1,0 +1,14 @@
+<map id="FourVector::dot_product" name="FourVector::dot_product">
+<area shape="rect" id="Node000001" title=" " alt="" coords="545,47,707,73"/>
+<area shape="rect" id="Node000002" href="$class_four_vector.html#a77bfbce2d08c9269f7a06c229c0937de" title=" " alt="" coords="332,5,497,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="530,48,497,42,498,37,530,42"/>
+<area shape="rect" id="Node000003" href="$class_particle.html#a0b012efd341528ed89c9ae092c4624bf" title=" " alt="" coords="355,72,474,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="531,78,475,87,474,81,530,72"/>
+<area shape="rect" id="Node000004" href="$_particle_catalogue_8cpp.html#a8b15e61a1e33d72e6b91e0326af811b8" title=" " alt="" coords="111,39,276,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="339,85,276,75,277,70,340,79"/>
+<area shape="rect" id="Node000006" href="$_particle_catalogue_8cpp.html#ac93f34a8b89a480e659d152d7e90a141" title=" " alt="" coords="103,105,284,148"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="340,107,285,116,284,110,339,102"/>
+<area shape="rect" id="Node000005" href="$_particle_catalogue_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,80,55,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="96,83,56,91,55,86,95,77"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="87,108,54,101,55,96,88,102"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_particle.html" title=" " alt="" coords="5,208,71,235"/>
+<area shape="rect" id="Node000001" href="$class_boson.html" title=" " alt="" coords="124,183,182,209"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="85,208,122,200,124,205,87,213"/>
+<area shape="rect" id="Node000008" href="$class_fermion.html" title=" " alt="" coords="119,259,187,285"/>
+<area shape="poly" id="edge8_Node000000_Node000008" title=" " alt="" coords="85,239,122,256,120,261,82,244"/>
+<area shape="rect" id="Node000002" href="$class_gauge_boson.html" title=" " alt="" coords="235,107,331,133"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="189,172,257,132,260,136,192,177"/>
+<area shape="rect" id="Node000007" href="$class_higgs_boson.html" title=" " alt="" coords="238,183,329,209"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="198,193,237,193,237,199,198,199"/>
+<area shape="rect" id="Node000003" href="$class_gluon.html" title=" " alt="" coords="387,5,443,32"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="312,94,378,42,393,30,396,35,381,46,315,99"/>
+<area shape="rect" id="Node000004" href="$class_photon.html" title=" " alt="" coords="384,56,446,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="333,98,382,79,384,84,335,103"/>
+<area shape="rect" id="Node000005" href="$class_w_boson.html" title=" " alt="" coords="379,107,451,133"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="347,117,379,117,379,123,347,123"/>
+<area shape="rect" id="Node000006" href="$class_z_boson.html" title=" " alt="" coords="382,157,448,184"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="335,137,383,156,381,161,333,142"/>
+<area shape="rect" id="Node000009" href="$class_lepton.html" title=" " alt="" coords="253,259,313,285"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="202,269,253,269,253,275,202,275"/>
+<area shape="rect" id="Node000014" href="$class_quark.html" title=" " alt="" coords="255,309,311,336"/>
+<area shape="poly" id="edge14_Node000008_Node000014" title=" " alt="" coords="202,288,256,309,254,314,200,293"/>
+<area shape="rect" id="Node000010" href="$class_electron.html" title=" " alt="" coords="380,208,450,235"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="327,252,379,232,381,237,329,257"/>
+<area shape="rect" id="Node000011" href="$class_muon.html" title=" " alt="" coords="388,259,442,285"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="329,269,388,269,388,275,329,275"/>
+<area shape="rect" id="Node000012" href="$class_neutrino.html" title=" " alt="" coords="380,309,450,336"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="329,287,381,307,379,312,327,292"/>
+<area shape="rect" id="Node000013" href="$class_tau.html" title=" " alt="" coords="394,360,436,387"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="328,292,333,295,358,320,381,346,395,357,392,362,378,350,354,324,330,299,325,296"/>
+</map>

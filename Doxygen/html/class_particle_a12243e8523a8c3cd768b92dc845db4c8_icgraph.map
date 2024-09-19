@@ -1,0 +1,13 @@
+<map id="Particle::display_properties" name="Particle::display_properties">
+<area shape="rect" id="Node000001" title=" " alt="" coords="338,72,516,99"/>
+<area shape="rect" id="Node000002" href="$_particle_catalogue_8cpp.html#a8b15e61a1e33d72e6b91e0326af811b8" title=" " alt="" coords="114,5,279,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,70,279,50,280,45,358,65"/>
+<area shape="rect" id="Node000004" href="$_particle_catalogue_8cpp.html#abf939f0a0fcbe01a7e61de35d6c112d1" title=" " alt="" coords="103,72,290,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,88,291,88,291,83,323,83"/>
+<area shape="rect" id="Node000005" href="$_particle_catalogue_8cpp.html#ac93f34a8b89a480e659d152d7e90a141" title=" " alt="" coords="106,123,287,165"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="358,106,284,125,282,119,356,100"/>
+<area shape="rect" id="Node000003" href="$_particle_catalogue_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,72,55,99"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,56,56,79,54,74,119,51"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="87,88,55,88,55,83,87,83"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="119,120,54,96,56,91,121,114"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SharedDecays::generate_z_boson_decays" name="SharedDecays::generate_z_boson_decays">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,170,164"/>
+<area shape="rect" id="Node000002" href="$namespace_decay_templates.html#aa40c950ec0e0324c8b4dd36a63ec3e3c" title=" " alt="" coords="221,5,368,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,118,222,69,224,74,131,123"/>
+<area shape="rect" id="Node000004" href="$namespace_shared_decays.html#aa0f8260da0f84410bbc0e2040cfe769d" title=" " alt="" coords="218,88,371,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,127,202,122,203,127,171,132"/>
+<area shape="rect" id="Node000005" href="$namespace_lepton_utilities.html#a7fc7fbb9aab3f712f32d5bd3238fe0d3" title=" " alt="" coords="230,155,359,197"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,153,215,161,214,166,170,159"/>
+<area shape="rect" id="Node000006" href="$namespace_quark_utilities.html#a806ac784d8f55a8ab6b64c55f5ceb2f0" title=" " alt="" coords="232,221,357,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="131,162,219,207,229,212,227,217,216,212,128,167"/>
+<area shape="rect" id="Node000003" href="$namespace_decay_templates.html#ab3ef31f6ab4a3b8434d2699640512ba7" title=" " alt="" coords="419,13,595,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,32,403,32,403,37,369,37"/>
+</map>

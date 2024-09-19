@@ -1,0 +1,33 @@
+<map id="include/utilities/DecayTemplates.h" name="include/utilities/DecayTemplates.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="333,5,552,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="601,229,657,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,30,505,50,540,78,568,111,591,148,622,214,617,216,586,151,563,114,536,82,502,55,468,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,229,74,256"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="413,35,301,85,231,119,162,157,112,190,69,222,65,217,109,185,159,152,228,114,298,80,411,30"/>
+<area shape="rect" id="Node000004" href="$_decay_channels_8h.html" title=" " alt="" coords="358,80,526,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="445,33,445,64,440,64,440,33"/>
+<area shape="rect" id="Node000006" href="$_decay_utilities_8h.html" title=" " alt="" coords="242,155,400,181"/>
+<area shape="poly" id="edge17_Node000001_Node000006" title=" " alt="" coords="412,35,378,54,348,82,334,110,326,140,321,139,329,108,344,78,375,50,409,30"/>
+<area shape="rect" id="Node000013" href="$_decay_templates_8tpp.html" title=" " alt="" coords="667,80,852,107"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="498,30,690,73,688,79,497,35"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="473,105,513,125,554,153,587,184,613,215,609,218,583,187,551,157,510,130,470,110"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="390,110,314,130,231,157,148,191,78,225,76,220,146,186,229,152,313,125,388,105"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="474,155,541,181"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="456,105,488,141,484,145,452,109"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="422,110,357,149,354,144,420,105"/>
+<area shape="rect" id="Node000010" href="$_particle_utilities_8h.html" title=" " alt="" coords="413,229,578,256"/>
+<area shape="poly" id="edge16_Node000004_Node000010" title=" " alt="" coords="446,106,453,140,465,180,482,215,477,217,460,182,448,141,441,107"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="385,179,587,226,585,231,384,185"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="271,185,89,231,88,226,270,179"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="225,229,289,256"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="312,184,280,219,276,216,308,180"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="313,229,390,256"/>
+<area shape="poly" id="edge11_Node000006_Node000008" title=" " alt="" coords="329,181,343,214,338,216,324,183"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="97,229,201,256"/>
+<area shape="poly" id="edge12_Node000006_Node000009" title=" " alt="" coords="292,184,194,225,192,220,290,179"/>
+<area shape="poly" id="edge13_Node000006_Node000010" title=" " alt="" coords="352,179,452,220,450,225,350,184"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="424,304,477,331"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="490,258,468,292,464,289,485,255"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="500,304,579,331"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="505,255,526,289,522,292,501,258"/>
+</map>

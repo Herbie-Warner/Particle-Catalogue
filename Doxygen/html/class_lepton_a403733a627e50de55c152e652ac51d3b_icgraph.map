@@ -1,0 +1,9 @@
+<map id="Lepton::get_info" name="Lepton::get_info">
+<area shape="rect" id="Node000001" title=" " alt="" coords="176,56,289,83"/>
+<area shape="rect" id="Node000002" href="$class_electron.html#a10f7cdf5beee6bf60ad2b7763ea17a96" title=" " alt="" coords="5,5,128,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,53,112,35,113,30,172,48"/>
+<area shape="rect" id="Node000003" href="$class_muon.html#a0ee083b04062e145941d80255698fd48" title=" " alt="" coords="13,56,120,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,72,120,72,120,67,160,67"/>
+<area shape="rect" id="Node000004" href="$class_neutrino.html#a30a188e01d35cd656c689134f6579da5" title=" " alt="" coords="5,107,128,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,90,113,109,112,104,171,85"/>
+</map>

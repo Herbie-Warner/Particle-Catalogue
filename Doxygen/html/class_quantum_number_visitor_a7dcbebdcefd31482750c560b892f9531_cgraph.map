@@ -1,0 +1,11 @@
+<map id="QuantumNumberVisitor::visit_quark" name="QuantumNumberVisitor::visit_quark">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,162,69"/>
+<area shape="rect" id="Node000002" href="$class_quark.html#ab7ddb89deadc2f6d8e379c43a8e316c4" title=" " alt="" coords="210,5,388,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,35,194,30,194,36,163,40"/>
+<area shape="rect" id="Node000003" href="$class_quantum_number_visitor.html#a91d64e5a5ff0c264823abbc13d441f64" title=" " alt="" coords="221,56,377,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,56,206,62,205,67,162,61"/>
+<area shape="rect" id="Node000004" href="$class_particle.html#ace872a5c45504859bf205e5637d1b2a4" title=" " alt="" coords="436,39,573,65"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="377,65,420,60,421,65,378,70"/>
+<area shape="rect" id="Node000005" href="$class_particle.html#a7940217ea9051d81bfe20fa6b0d8f898" title=" " alt="" coords="444,89,566,116"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="378,84,429,91,428,96,377,90"/>
+</map>

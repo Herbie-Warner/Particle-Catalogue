@@ -1,0 +1,12 @@
+<map id="Particle::add_decay_channel" name="Particle::add_decay_channel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,72,428,115"/>
+<area shape="rect" id="Node000002" href="$class_particle.html#a794b3e246ffb9d05c8f055d9b8362770" title=" " alt="" coords="105,5,242,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,69,234,51,236,46,285,64"/>
+<area shape="rect" id="Node000003" href="$_particle_catalogue_8cpp.html#a22abb754bad61669a098520acd977e89" title=" " alt="" coords="103,72,244,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,96,244,96,244,91,277,91"/>
+<area shape="rect" id="Node000005" href="$_particle_catalogue_8cpp.html#a7b18243a9e4cf9c9067fb831fb0cb35d" title=" " alt="" coords="103,139,244,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="285,123,236,141,234,136,283,118"/>
+<area shape="rect" id="Node000004" href="$_particle_catalogue_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,113,55,140"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="88,116,55,124,54,119,87,111"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="87,143,54,135,56,130,89,138"/>
+</map>

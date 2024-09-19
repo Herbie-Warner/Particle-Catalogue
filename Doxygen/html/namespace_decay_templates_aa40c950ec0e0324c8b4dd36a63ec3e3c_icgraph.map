@@ -1,0 +1,12 @@
+<map id="DecayTemplates::add_decay_channels_for_particle_pairs" name="DecayTemplates::add_decay_channels_for_particle_pairs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="531,31,679,89"/>
+<area shape="rect" id="Node000002" href="$namespace_shared_decays.html#a9d0c7e4c429f043e7ab2ac2237899912" title=" " alt="" coords="319,5,483,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="516,48,483,43,484,38,517,43"/>
+<area shape="rect" id="Node000005" href="$namespace_shared_decays.html#a670659b9b1f50905b3770e9444b13ada" title=" " alt="" coords="319,72,483,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="517,77,484,82,483,77,516,72"/>
+<area shape="rect" id="Node000003" href="$namespace_shared_decays.html#a9deb8189bd774d6525b12ce0663caa24" title=" " alt="" coords="103,39,271,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,44,272,49,271,44,303,39"/>
+<area shape="rect" id="Node000004" href="$_particle_catalogue_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,47,55,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,63,55,63,55,57,87,57"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="303,81,271,76,272,71,304,76"/>
+</map>

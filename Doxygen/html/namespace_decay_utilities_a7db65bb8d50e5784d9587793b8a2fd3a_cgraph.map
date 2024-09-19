@@ -1,0 +1,9 @@
+<map id="DecayUtilities::distribute_four_momentum" name="DecayUtilities::distribute_four_momentum">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,168,115"/>
+<area shape="rect" id="Node000002" href="$class_four_vector.html#a04b2f2f49fcc749a82ec34cedc9960da" title=" " alt="" coords="220,5,371,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,69,211,51,213,56,156,74"/>
+<area shape="rect" id="Node000003" href="$class_particle.html#a9279d1c2f2ee27f5b69d74a619693a5b" title=" " alt="" coords="236,72,355,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,91,220,91,220,96,168,96"/>
+<area shape="rect" id="Node000004" href="$class_particle.html#aa0b2cd179036d78598e82306c9e12cd5" title=" " alt="" coords="216,139,375,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,113,231,131,230,137,164,118"/>
+</map>

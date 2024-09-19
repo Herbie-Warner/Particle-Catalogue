@@ -1,0 +1,22 @@
+<map id="demonstrate_four_momentum_distribution" name="demonstrate_four_momentum_distribution">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,139,199,181"/>
+<area shape="rect" id="Node000002" href="$class_particle.html#a9879d3bf550787b2028a5a5945f915e7" title=" " alt="" coords="247,147,396,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,157,231,157,231,163,199,163"/>
+<area shape="rect" id="Node000004" href="$namespace_decay_utilities.html#a7db65bb8d50e5784d9587793b8a2fd3a" title=" " alt="" coords="449,72,611,115"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="199,140,246,132,433,104,434,109,247,137,200,145"/>
+<area shape="rect" id="Node000010" href="$_particle_catalogue_8cpp.html#a388f572c62279f839ee138a9afbdeeb5" title=" " alt="" coords="298,197,345,224"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="198,179,284,199,283,205,196,185"/>
+<area shape="rect" id="Node000003" href="$namespace_particle_utilities.html#a1de08ca3ab8ea73d3d5035109d85e6eb" title=" " alt="" coords="463,139,597,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,157,447,157,447,163,397,163"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="365,143,445,117,447,123,367,149"/>
+<area shape="rect" id="Node000008" href="$class_particle.html#ab158ed5a778271ca1aabdcaf028002e4" title=" " alt="" coords="444,205,616,232"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="372,171,466,198,465,203,371,176"/>
+<area shape="rect" id="Node000009" href="$namespace_particle_utilities.html#abff4e3e03d04831bf57e6b877ddaf817" title=" " alt="" coords="467,256,594,299"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="376,171,398,183,413,198,422,213,431,228,446,242,454,248,452,252,442,246,427,231,418,216,409,202,394,187,373,176"/>
+<area shape="rect" id="Node000005" href="$class_four_vector.html#a04b2f2f49fcc749a82ec34cedc9960da" title=" " alt="" coords="669,5,819,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="600,69,658,51,659,56,601,74"/>
+<area shape="rect" id="Node000006" href="$class_particle.html#a9279d1c2f2ee27f5b69d74a619693a5b" title=" " alt="" coords="684,72,804,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="612,91,669,91,669,96,612,96"/>
+<area shape="rect" id="Node000007" href="$class_particle.html#aa0b2cd179036d78598e82306c9e12cd5" title=" " alt="" coords="664,139,824,165"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="611,113,679,132,678,137,609,118"/>
+</map>

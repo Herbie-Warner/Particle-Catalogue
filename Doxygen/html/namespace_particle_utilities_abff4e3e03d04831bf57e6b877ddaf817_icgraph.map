@@ -1,0 +1,47 @@
+<map id="ParticleUtilities::get_particle_name" name="ParticleUtilities::get_particle_name">
+<area shape="rect" id="Node000001" title=" " alt="" coords="780,187,907,229"/>
+<area shape="rect" id="Node000002" href="$class_particle.html#a9879d3bf550787b2028a5a5945f915e7" title=" " alt="" coords="576,56,726,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="812,177,775,139,730,104,694,86,697,81,733,99,779,135,816,173"/>
+<area shape="rect" id="Node000004" href="$class_particle.html#abb77c1675ed2023adfc45a08a34ff3d8" title=" " alt="" coords="364,107,502,149"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="798,180,766,162,731,148,672,135,611,128,503,126,503,121,612,122,673,129,732,143,768,157,801,175"/>
+<area shape="rect" id="Node000007" href="$class_particle.html#a454077d69b4b3ccc78d2162db010a840" title=" " alt="" coords="570,157,732,200"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="764,199,732,194,733,188,765,193"/>
+<area shape="rect" id="Node000008" href="$class_particle.html#a93f97ad76b0caad04157e9b86fc18df7" title=" " alt="" coords="353,173,513,216"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="764,214,732,215,651,217,570,215,513,209,514,204,570,209,651,212,732,209,764,209"/>
+<area shape="rect" id="Node000009" href="$namespace_factory_utilities.html#adcaa056002dca84bd3f6ed4925e7ecb9" title=" " alt="" coords="573,275,729,317"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="782,239,700,277,698,272,780,234"/>
+<area shape="rect" id="Node000010" href="$class_particle.html#a9958a7eadbf95d6feef44fab309a965d" title=" " alt="" coords="592,341,710,368"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="821,244,783,289,759,312,733,332,710,343,707,338,730,327,756,308,779,285,817,240"/>
+<area shape="rect" id="Node000003" href="$class_tau.html#a982c8a8fe19262869f86f6af51a154ad" title=" " alt="" coords="370,5,496,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="575,54,493,35,494,30,576,49"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="585,90,503,112,502,107,583,85"/>
+<area shape="rect" id="Node000005" href="$_particle_catalogue_8cpp.html#ab3636042ab34670e3c6422c4bd28025a" title=" " alt="" coords="103,83,296,125"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="561,79,296,99,296,94,561,74"/>
+<area shape="rect" id="Node000006" href="$_particle_catalogue_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,224,55,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="154,136,104,173,47,225,43,221,101,169,151,132"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="555,188,514,191,513,186,555,183"/>
+<area shape="rect" id="Node000011" href="$_particle_catalogue_8cpp.html#ac93f34a8b89a480e659d152d7e90a141" title=" " alt="" coords="109,183,290,225"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="579,337,569,332,554,318,544,305,536,293,521,281,480,264,422,248,290,222,291,216,423,243,482,259,524,276,539,289,549,302,558,315,572,327,581,332"/>
+<area shape="rect" id="Node000012" href="$class_particle.html#a12243e8523a8c3cd768b92dc845db4c8" title=" " alt="" coords="344,291,522,317"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="576,340,493,321,495,315,577,335"/>
+<area shape="rect" id="Node000015" href="$class_gluon.html#a936df2fe2878fafb738d05b0d8b7f076" title=" " alt="" coords="379,341,487,368"/>
+<area shape="poly" id="edge20_Node000010_Node000015" title=" " alt="" coords="576,357,488,357,488,352,576,352"/>
+<area shape="rect" id="Node000016" href="$class_lepton.html#a403733a627e50de55c152e652ac51d3b" title=" " alt="" coords="377,392,490,419"/>
+<area shape="poly" id="edge21_Node000010_Node000016" title=" " alt="" coords="577,374,491,395,490,390,576,369"/>
+<area shape="rect" id="Node000020" href="$class_quark.html#ac2b61727b437e2a02a368b460e420263" title=" " alt="" coords="379,443,488,469"/>
+<area shape="poly" id="edge25_Node000010_Node000020" title=" " alt="" coords="619,379,575,407,523,433,489,445,487,440,521,428,572,402,616,375"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="94,227,56,235,55,230,93,222"/>
+<area shape="poly" id="edge19_Node000012_Node000011" title=" " alt="" coords="371,287,343,274,318,257,295,240,270,228,272,224,297,235,322,252,345,270,373,282"/>
+<area shape="rect" id="Node000013" href="$_particle_catalogue_8cpp.html#a8b15e61a1e33d72e6b91e0326af811b8" title=" " alt="" coords="117,249,282,292"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="329,292,282,285,283,280,329,287"/>
+<area shape="rect" id="Node000014" href="$_particle_catalogue_8cpp.html#abf939f0a0fcbe01a7e61de35d6c112d1" title=" " alt="" coords="106,316,293,343"/>
+<area shape="poly" id="edge17_Node000012_Node000014" title=" " alt="" coords="329,318,294,322,293,317,328,313"/>
+<area shape="poly" id="edge16_Node000013_Node000006" title=" " alt="" coords="101,254,54,245,56,239,102,249"/>
+<area shape="poly" id="edge18_Node000014_Node000006" title=" " alt="" coords="114,312,101,306,66,280,41,253,44,249,70,276,104,302,116,308"/>
+<area shape="rect" id="Node000017" href="$class_electron.html#a10f7cdf5beee6bf60ad2b7763ea17a96" title=" " alt="" coords="138,367,261,393"/>
+<area shape="poly" id="edge22_Node000016_Node000017" title=" " alt="" coords="360,400,261,389,261,384,361,395"/>
+<area shape="rect" id="Node000018" href="$class_muon.html#a0ee083b04062e145941d80255698fd48" title=" " alt="" coords="146,417,253,444"/>
+<area shape="poly" id="edge23_Node000016_Node000018" title=" " alt="" coords="361,416,253,428,253,422,361,410"/>
+<area shape="rect" id="Node000019" href="$class_neutrino.html#a30a188e01d35cd656c689134f6579da5" title=" " alt="" coords="138,468,261,495"/>
+<area shape="poly" id="edge24_Node000016_Node000019" title=" " alt="" coords="363,426,345,433,321,446,297,458,262,470,260,465,295,454,319,441,343,428,361,421"/>
+</map>

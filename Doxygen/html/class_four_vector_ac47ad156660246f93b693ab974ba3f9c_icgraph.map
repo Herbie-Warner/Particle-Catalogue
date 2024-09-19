@@ -1,0 +1,9 @@
+<map id="FourVector::reset_four_vector" name="FourVector::reset_four_vector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="407,23,557,65"/>
+<area shape="rect" id="Node000002" href="$class_four_vector.html#ad61c63f95d0b9a373ed8cedf32af7d1a" title=" " alt="" coords="202,31,359,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="392,47,360,47,360,41,392,41"/>
+<area shape="rect" id="Node000003" href="$class_four_vector.html#a94422ec0b57d662d5a986e5b2c30383e" title=" " alt="" coords="5,5,154,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,35,153,31,154,25,186,29"/>
+<area shape="rect" id="Node000004" href="$class_four_vector.html#af21972f9ea193a23e30f991fe2d4fcac" title=" " alt="" coords="7,56,152,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="187,59,152,63,152,58,186,53"/>
+</map>
